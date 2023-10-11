@@ -1,5 +1,8 @@
 _repo: Outside-Saturn_71815
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71815-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilbert, Robert E.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '34313'
     url: http://www.gutenberg.org/2009/agents/34313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71815#Outside-Saturn
 gutenberg_issued: '2023-10-05'
 identifiers:
   gutenberg: '71815'
